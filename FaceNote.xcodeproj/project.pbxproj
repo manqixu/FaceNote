@@ -3590,6 +3590,203 @@
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
+			<key>7347CDD8327B6D423555CC7D</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundOsc.h</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundOsc.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>164CF93AC9249C2F17FD84F8</key>
+			<dict>
+				<key>fileRef</key>
+				<string>366387A596B38C32DB156F6D</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>366387A596B38C32DB156F6D</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundOsc.cpp</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundOsc.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>F5D1F6A50A4F3E53F121DB63</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundFilter.h</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundFilter.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>C4D03330F77667183D21E259</key>
+			<dict>
+				<key>fileRef</key>
+				<string>FD9C8F47481382756BABC470</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>FD9C8F47481382756BABC470</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundFilter.cpp</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundFilter.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>B58E3D2DEB9F920321D069AE</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundEnvelope.h</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundEnvelope.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>3349BC211E1E72BA501F44C9</key>
+			<dict>
+				<key>fileRef</key>
+				<string>EFD0D814DD2D0FC70A874A2A</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>EFD0D814DD2D0FC70A874A2A</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundEnvelope.cpp</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundEnvelope.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>04076872EB0B51ECBC24190C</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundDelay.h</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundDelay.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>416DEA5BD8E93DDFD6AF5F44</key>
+			<dict>
+				<key>fileRef</key>
+				<string>4F58E2C9022D4F107C5F5205</string>
+				<key>isa</key>
+				<string>PBXBuildFile</string>
+			</dict>
+			<key>4F58E2C9022D4F107C5F5205</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.cpp.cpp</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSoundDelay.cpp</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSoundDelay.cpp</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
+			<key>B701F05F9C38DC8067049F4B</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>F555E289B0DFEBEE8124C265</string>
+					<string>4F58E2C9022D4F107C5F5205</string>
+					<string>04076872EB0B51ECBC24190C</string>
+					<string>EFD0D814DD2D0FC70A874A2A</string>
+					<string>B58E3D2DEB9F920321D069AE</string>
+					<string>FD9C8F47481382756BABC470</string>
+					<string>F5D1F6A50A4F3E53F121DB63</string>
+					<string>366387A596B38C32DB156F6D</string>
+					<string>7347CDD8327B6D423555CC7D</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>src</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>66A1DA749DB34FE3A528FA52</key>
+			<dict>
+				<key>children</key>
+				<array>
+					<string>B701F05F9C38DC8067049F4B</string>
+				</array>
+				<key>isa</key>
+				<string>PBXGroup</string>
+				<key>name</key>
+				<string>ofxGenSound</string>
+				<key>sourceTree</key>
+				<string>&lt;group&gt;</string>
+			</dict>
+			<key>F555E289B0DFEBEE8124C265</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxGenSound.h</string>
+				<key>path</key>
+				<string>../../../addons/ofxGenSound/src/ofxGenSound.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
 			<key>E43C5A4AB73C09290F70362D</key>
 			<dict>
 				<key>fileRef</key>
@@ -4852,6 +5049,7 @@
 				<array>
 					<string>6025FAF6414C2CA589764D26</string>
 					<string>2B86176FA97BFB2BEE1F2F83</string>
+					<string>66A1DA749DB34FE3A528FA52</string>
 					<string>480A780D8D0308AE4A368801</string>
 					<string>A0B90D3B0ADB9C1716816714</string>
 				</array>
@@ -5024,6 +5222,7 @@
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src</string>
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src/lib</string>
 						<string>../../../addons/ofxFaceTracker/src</string>
+						<string>../../../addons/ofxGenSound/src</string>
 						<string>../../../addons/ofxGui/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
@@ -5130,6 +5329,7 @@
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src</string>
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src/lib</string>
 						<string>../../../addons/ofxFaceTracker/src</string>
+						<string>../../../addons/ofxGenSound/src</string>
 						<string>../../../addons/ofxGui/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
@@ -5242,6 +5442,10 @@
 					<string>091CD626FECB03B3A6B3A1B2</string>
 					<string>E6E21460246219EE9394310F</string>
 					<string>E43C5A4AB73C09290F70362D</string>
+					<string>416DEA5BD8E93DDFD6AF5F44</string>
+					<string>3349BC211E1E72BA501F44C9</string>
+					<string>C4D03330F77667183D21E259</string>
+					<string>164CF93AC9249C2F17FD84F8</string>
 					<string>856AA354D08AB4B323081444</string>
 					<string>5CBB2AB3A60F65431D7B555D</string>
 					<string>B266578FC55D23BFEBC042E7</string>
@@ -5357,6 +5561,7 @@
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src</string>
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src/lib</string>
 						<string>../../../addons/ofxFaceTracker/src</string>
+						<string>../../../addons/ofxGenSound/src</string>
 						<string>../../../addons/ofxGui/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
@@ -5453,6 +5658,7 @@
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src</string>
 						<string>../../../addons/ofxFaceTracker/libs/FaceTracker/src/lib</string>
 						<string>../../../addons/ofxFaceTracker/src</string>
+						<string>../../../addons/ofxGenSound/src</string>
 						<string>../../../addons/ofxGui/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>

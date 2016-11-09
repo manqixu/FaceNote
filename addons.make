@@ -1,4 +1,5 @@
 ofxCv
 ofxFaceTracker
+ofxGenSound
 ofxGui
 ofxOpenCv
