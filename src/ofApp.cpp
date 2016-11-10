@@ -5,13 +5,13 @@ using namespace ofxCv;
 const int N = 256;		//Number of bands in spectrum
 float spectrum[ N ];	//Smoothed spectrum values
 float Rad = 500;		//Cloud raduis parameter
-float Vel = 0.1;		//Cloud points velocity parameter
+float Vel = 0.5;		//Cloud points velocity parameter
 int bandRad = 2;		//Band index in spectrum, affecting Rad value
 int bandVel = 100;		//Band index in spectrum, affecting Vel value
 
-const int n = 100;		//Number of cloud points
+const int n = 50;		//Number of squares
 
-//Offsets for Perlin noise calculation for points
+// Offsets for Perlin noise calculation for points
 float tx[n], ty[n];
 ofPoint p[n];			//Cloud's points positions
 
@@ -122,7 +122,7 @@ void ofApp::update() {
 
 void ofApp::draw() {
     //---- draw face ----//
-    ofSetColor(255);
+    ofSetColor(255,255,255);
     ofSetLineWidth(1);
     tracker.draw();
     
@@ -139,7 +139,7 @@ void ofApp::draw() {
         ofTranslate( ofGetWidth() / 2, ofGetHeight() / 2 );
     
         // draw squares
-        ofSetColor(ofRandom(20,30), ofRandom(80,100), ofRandom(120,130) ,50);
+        ofSetColor(ofRandom(20,40), ofRandom(80,100), ofRandom(120,140) ,50);
         ofFill();
         for (int i=0; i<n; i++) {
             ofRect(p[i].x, p[i].y,100,100);
